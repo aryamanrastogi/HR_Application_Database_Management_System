@@ -92,9 +92,9 @@ int main()
     Environment* env = nullptr;
     Connection* conn = nullptr;
 
-    string user = "dbs211_211j25";   //place your Oracle SQL developer user id here
-    string pass = "24927106";       // place your password here
-    string constr = "myoracle12c.senecacollege.ca:1521/oracle12c";     //place the connection sting here
+    string user = "";   //place your Oracle SQL developer user id here example: d**********5
+    string pass = "";       // place your password here example: 2******6
+    string constr = "";     //place the connection sting here example: myoracle12c.---text here----.ca:1521/oracle12c
 
     try
     {
